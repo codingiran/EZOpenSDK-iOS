@@ -9,6 +9,8 @@ EZOpenSDK-iOS
 3. 支持录像机对讲
 4. 兼容新国标设备
 
+最新的 `com.hri.hpc.mobile.ios.player.metallib` 文件 
+
 
 ====
 
