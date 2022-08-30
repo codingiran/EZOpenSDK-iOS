@@ -22,4 +22,4 @@ EZOpenSDK-iOS
 
 #### 提醒
 之所以有这个 spec 是因为[萤石官方的spec](https://github.com/Hikvision-Ezviz/SDK-iOS)还停留在 [4.8.6](https://github.com/Hikvision-Ezviz/SDK-iOS.git)，本仓库旨在收集最新的SDK方便使用cocoapods引入项目
-**如果有任何侵权问题，请与我联系 CodingIran@gamil.com**
+**如果有任何侵权问题，请与我联系 CodingIran@gmail.com**
